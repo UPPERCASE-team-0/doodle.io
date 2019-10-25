@@ -1,0 +1,8 @@
+# Ignore model files
+*.model
+
+# Ignore .pyc files
+*.pyc
+
+# Ignore any temporary files
+*.temp
